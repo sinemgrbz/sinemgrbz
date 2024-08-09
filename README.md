@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinem Çobanlı Gürbüz</h1>
 
 
-- 🌱 I’m currently learning **front-end developer at Patika.dev**
+- 🌱 I’m currently learning **front-end development at Patika.dev**
 
 - 📫 How to reach me **sinemcobanligurbuz@gmail.com**
 
