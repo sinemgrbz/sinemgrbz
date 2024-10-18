@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinem Çobanlı Gürbüz</h1>
 
 
-- 🌱 I’m actively developing my front-end skills with a focus on JavaScript, CSS, and responsive web design through the Patika.dev bootcamp. I'm working on real-world projects to sharpen my abilities and build a strong foundation in modern web development practices.**
+- 🌱 I’m actively developing my front-end skills with a focus on JavaScript, CSS, and responsive web design through the Patika.dev bootcamp. I'm working on real-world projects to sharpen my abilities and build a strong foundation in modern web development practices.
 
 - 💬  Ask me about **JavaScript. CSS, and web development.**
 
