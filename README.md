@@ -3,7 +3,7 @@
 
 - 🌱 I’m actively developing my front-end skills with a focus on JavaScript, CSS, and responsive web design through the Patika.dev bootcamp. I'm working on real-world projects to sharpen my abilities and build a strong foundation in modern web development practices.
 
-- 💬  Ask me about **JavaScript. CSS, and web development.**
+- 💬  Ask me about **JavaScript, CSS and web development.**
 
 - 📫 How to reach me **sinemcobanligurbuz@gmail.com**
 
